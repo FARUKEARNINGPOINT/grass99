@@ -32,12 +32,9 @@ pkg install clang cmake ninja rust make
      ```bash
      npm install
      ```
-**ADD ACCOUNTS**
-   ```
-   nano uid.txt
-   ```
-   
-4.**START THE BOT**
-```bash
-npm start 
-```
+     ```bash
+     nano uid.txt
+     ```
+     ```bash
+     npm start
+     ```
