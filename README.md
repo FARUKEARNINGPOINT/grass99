@@ -21,20 +21,20 @@ pkg install clang cmake ninja rust make
    pkg install nano
    ```
    ```bash
-    git clone https://github.com/FARUKEARNINGPOINT/grass99.git
-    ```
-    ```bash
-    cd grass99
-    ```
-    ```bash
-     pkg install nodejs
-     ```
-     ```bash
-     npm install
-     ```
-     ```bash
-     nano uid.txt
-     ```
-     ```bash
-     npm start
-     ```
+   git clone https://github.com/FARUKEARNINGPOINT/grass99.git
+   ```
+   ```bash
+   cd grass99
+   ```
+   ```bash
+   pkg install nodejs
+   ```
+   ```bash
+   npm install
+   ```
+   ```bash
+   nano uid.txt
+   ```
+   ```bash
+   npm start
+   ```
